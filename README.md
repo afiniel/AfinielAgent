@@ -55,7 +55,7 @@ And when you want something in 3D, Afiniel opens Blender, writes and runs the Bl
 
 ## Install
 
-1. Go to the [**latest release**](../../releases/latest) and download the **Setup .exe** under **Assets**. Or, once Afiniel is on winget, run `winget install Afiniel.AfinielAgent` in a terminal.
+1. Go to the [**latest release**](../../releases/latest) and download the **Setup .exe** under **Assets**. Or install it with winget: run `winget install Afiniel.AfinielAgent` in a terminal (available once Microsoft has approved the listing).
 2. Run the installer.
 3. **Windows SmartScreen** will probably say *"Windows protected your PC"*. That happens because the app isn't signed with a paid certificate, not because something is wrong. Click **More info**, then **Run anyway**.
 4. Open **Afiniel Agent** from the Start menu or desktop.
@@ -76,7 +76,7 @@ And when you want something in 3D, Afiniel opens Blender, writes and runs the Bl
 
 ## Updating
 
-From version 1.0.10, Afiniel updates itself: when a new version is out it downloads in the background and shows **Restart to update**. You can also check in **Settings > Updates**. On older versions, download the newest installer from [Releases](../../releases) and run it. Your chats, memory and settings are kept.
+From version 1.0.10, Afiniel updates itself (the newest version is 1.1.0): when a new version is out it downloads in the background and shows **Restart to update**. You can also check in **Settings > Updates**. On older versions, download the newest installer from [Releases](../../releases) and run it. Your chats, memory and settings are kept.
 
 ---
 
